@@ -2,7 +2,7 @@
 
 This repository contains demo code for exploring a possible "anomaly detection" system using OpenAI embeddings.
 
-You can read more about this on my blog.
+You can read more about this on my [blog](https://blakewills.co.uk/otel-openai/).
 
 ## Getting Started
 
